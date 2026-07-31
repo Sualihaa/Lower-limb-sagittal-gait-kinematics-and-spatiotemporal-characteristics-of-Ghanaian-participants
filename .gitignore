@@ -1,12 +1,12 @@
 # Ignore everything
 *
 
-# Keep folders searchable
+# Allow Git to inspect folders
 !*/
 
 # Keep MATLAB and Markdown files
 !*.m
 !*.md
 
-# Keep this file
+# Keep the ignore configuration
 !.gitignore
