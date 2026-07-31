@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep folders searchable
+!*/
+
+# Keep MATLAB and Markdown files
+!*.m
+!*.md
+
+# Keep this file
+!.gitignore
